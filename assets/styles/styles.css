@@ -340,6 +340,7 @@ h6 {
 .hey {
   font-size: 20px;
   text-align: start;
+  margin-left: 2px;
 }
 
 .interesttt {
@@ -355,4 +356,7 @@ h6 {
   margin: 40px;
   color: orange;
   font-size: 33px;
+}
+.text-left {
+  margin-left: 2px;
 }
